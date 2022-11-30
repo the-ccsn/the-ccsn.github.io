@@ -144,7 +144,7 @@ widgets:
         position: left
         type: links
         links:
-            Official Cite: https://ccsn.dev/
+            Official Site: https://ccsn.dev/
     -
         position: left
         type: categories
