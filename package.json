@@ -1,44 +1,27 @@
 {
-  "name": "cssn",
-  "version": "1.0.0",
+  "name": "hexo-site",
+  "version": "0.0.0",
   "private": true,
-  "description": "cssn",
-  "author": "Ovler",
-  "keywords": [
-    "gatsby"
-  ],
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit"
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
+  "hexo": {
+    "version": "6.3.0"
   },
   "dependencies": {
-    "@chakra-ui/gatsby-plugin": "^3.0.6",
-    "@chakra-ui/react": "^2.3.7",
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@mdx-js/react": "^2.1.5",
-    "framer-motion": "^7.6.6",
-    "gatsby": "^5.0.0",
-    "gatsby-plugin-image": "^3.0.0",
-    "gatsby-plugin-manifest": "^5.0.0",
-    "gatsby-plugin-mdx": "^5.0.0",
-    "gatsby-plugin-sharp": "^5.0.0",
-    "gatsby-plugin-sitemap": "^6.0.0",
-    "gatsby-source-filesystem": "^5.0.0",
-    "gatsby-transformer-remark": "^6.0.0",
-    "gatsby-transformer-sharp": "^5.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "@types/node": "^18.11.9",
-    "@types/react": "^18.0.25",
-    "@types/react-dom": "^18.0.8",
-    "gatsby-plugin-pnpm": "^1.2.10",
-    "typescript": "^4.8.4"
+    "hexo": "^6.3.0",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^3.0.0",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^6.0.0",
+    "hexo-renderer-stylus": "^2.1.0",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-icarus": "^5.1.0",
+    "hexo-theme-landscape": "^0.0.3"
   }
 }

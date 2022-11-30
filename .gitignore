@@ -1,4 +1,8 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
 node_modules/
-.cache/
-public
-src/gatsby-types.d.ts
+public/
+.deploy*/
+_multiconfig.yml
