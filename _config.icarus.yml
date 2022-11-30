@@ -2,7 +2,7 @@ version: 5.1.0
 variant: default
 logo: /img/CCSN.png
 head:
-    favicon: /img/favicon.svg
+    favicon: /img/CCSN.svg
     manifest:
         name: CCSN 
         short_name: CCSN
@@ -82,32 +82,32 @@ article:
 search:
     type: insight
     index_pages: true
-comment:
-    type: disqus
-    shortname: ''
-donates:
-    -
-        type: afdian
-        url: ''
-    -
-        type: alipay
-        qrcode: ''
-    -
-        type: buymeacoffee
-        url: ''
-    -
-        type: patreon
-        url: ''
-    -
-        type: paypal
-        business: ''
-        currency_code: USD
-    -
-        type: wechat
-        qrcode: ''
+#comment:
+#    type: disqus
+#    shortname: ''
+#donates:
+#    -
+#        type: afdian
+#        url: ''
+#    -
+#        type: alipay
+#        qrcode: ''
+#    -
+#        type: buymeacoffee
+#        url: ''
+#    -
+#        type: patreon
+#        url: ''
+#    -
+#        type: paypal
+#        business: ''
+#        currency_code: USD
+#    -
+#        type: wechat
+#        qrcode: ''
 share:
     type: sharethis
-    install_url: ''
+    install_url: 'https://ccsn.dev'
 sidebar:
     left:
         sticky: false
@@ -144,8 +144,7 @@ widgets:
         position: left
         type: links
         links:
-            Hexo: https://hexo.io
-            Bulma: https://bulma.io
+            Official Cite: https://ccsn.dev/
     -
         position: left
         type: categories
@@ -161,22 +160,6 @@ widgets:
         order_by: name
         amount: 
         show_count: true
-    -
-        position: left
-        type: subscribe_email
-        description: 
-        feedburner_id: ''
-    -
-        position: left
-        type: adsense
-        client_id: ''
-        slot_id: ''
-    -
-        position: left
-        type: followit
-        description: 
-        action_url: ''
-        verification_code: ''
 plugins:
     animejs: true
     back_to_top: true
@@ -199,8 +182,8 @@ plugins:
         tracking_id: 
     hotjar:
         site_id: 
-    katex: false
-    mathjax: false
+    katex: true
+    mathjax: true
     outdated_browser: false
     progressbar: true
     statcounter:
