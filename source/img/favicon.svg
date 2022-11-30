@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="图层_1"
+   data-name="图层 1"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5755"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.72619866"
+     inkscape:cx="315.34071"
+     inkscape:cy="712.61492"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="图层_1" />
+  <defs
+     id="defs5719">
+    <style
+       id="style5717">.cls-1{fill:#fff;}.cls-2{fill:#0057b8;}.cls-3{fill:#0045ac;}</style>
+  </defs>
+  <g
+     id="g6265"
+     inkscape:label="LOGO"
+     style="display:inline">
+    <path
+       class="cls-2"
+       d="M 753.8,902.65 A 957.71,957.71 0 0 1 361.13,777.7 957.66,957.66 0 0 1 56.58,500.1 a 951.21,951.21 0 0 1 295,-272.3 l 19.65,-11.46 7.85,-4.36 a 966.64,966.64 0 0 1 374.84,-114.62 966.78,966.78 0 0 1 88.17,382 l 0.15,9 -0.1,22.76 A 951,951 0 0 1 753.8,902.65 Z"
+       id="path5729"
+       style="display:inline"
+       inkscape:label="背景色" />
+    <g
+       id="g8586"
+       inkscape:label="底层轮廓"
+       style="display:inline"
+       transform="translate(-4)">
+      <path
+         class="cls-1"
+         d="m 409.19,706.88 a 5.51,5.51 0 0 1 -5,-3.2 485.39,485.39 0 0 1 -44.59,-193.16 l -0.08,-4.5 0.05,-11.51 a 478.43,478.43 0 0 1 44.68,-198.08 5.55,5.55 0 0 1 5.5,-3.17 487.25,487.25 0 0 1 352.6,203.57 5.52,5.52 0 0 1 0,6.35 478.52,478.52 0 0 1 -149.18,137.72 l -13.88,8 a 485.5,485.5 0 0 1 -189.59,58 z m 3.43,-402.28 a 467.48,467.48 0 0 0 -42,190 v 11.35 l 0.08,4.36 A 474.59,474.59 0 0 0 412.65,695.52 474.48,474.48 0 0 0 594,639.23 l 13.62,-7.83 A 467.34,467.34 0 0 0 751.09,500 476.25,476.25 0 0 0 412.62,304.6 Z"
+         id="path5733"
+         style="display:inline"
+         inkscape:label="中心三角" />
+      <path
+         class="cls-1"
+         d="m 761.17,908.49 -3.87,-0.36 C 617.6,895.38 484.72,853.13 362.37,782.47 240.02,711.81 137,617.9 56.07,503.28 l -2.23,-3.18 2.23,-3.17 A 951.57,951.57 0 0 1 352.75,223.06 l 27.62,-15.89 a 965.73,965.73 0 0 1 377,-115.3 l 3.89,-0.36 1.62,3.54 a 965.76,965.76 0 0 1 88.71,384.15 l 0.16,9 -0.11,22.87 A 951.54,951.54 0 0 1 762.8,905 Z M 67.32,500.1 C 147,612 248.05,703.74 367.88,772.93 487.71,842.12 617.74,883.77 754.43,896.8 A 940.58,940.58 0 0 0 840.63,511 l 0.1,-22.73 -0.15,-8.85 a 954.74,954.74 0 0 0 -86,-376.21 954.79,954.79 0 0 0 -368.89,113.61 l -7.82,4.34 -19.55,11.4 a 940.63,940.63 0 0 0 -291,267.54 z"
+         id="path5731"
+         style="display:inline"
+         inkscape:label="外层轮廓" />
+      <path
+         id="path5739"
+         style="display:inline"
+         class="cls-1"
+         d="m 757.8,908.16 a 5.52,5.52 0 0 1 -5,-7.82 481.9,481.9 0 0 0 43.68,-189 l 0.07,-4.38 v -11.34 a 467,467 0 0 0 -43.65,-193.29 5.5120232,5.5120232 0 1 1 10,-4.64 478.28,478.28 0 0 1 44.67,197.86 l 0.05,11.4 -0.08,4.61 A 492.9,492.9 0 0 1 762.81,905 5.51,5.51 0 0 1 757.8,908.16 Z M 409.2,706.89 c -0.17,0 -0.34,0 -0.5,0 A 478.07,478.07 0 0 1 215.07,646.32 l -13.85,-8 a 485.51,485.51 0 0 1 -145.14,-135 5.5130958,5.5130958 0 0 1 9,-6.37 474.56,474.56 0 0 0 141.84,131.89 l 13.6,7.88 a 467.05,467.05 0 0 0 189.16,59.17 5.51,5.51 0 0 1 -0.48,11 z m 0.04,-402.64 a 5.45,5.45 0 0 1 -3.16,-1 5.51,5.51 0 0 1 -1.34,-7.68 A 478.55,478.55 0 0 1 554,157.85 l 13.88,-8 a 485.59,485.59 0 0 1 189.58,-58 5.5226805,5.5226805 0 1 1 1,11 474.71,474.71 0 0 0 -185.29,56.68 l -13.62,7.83 a 467.82,467.82 0 0 0 -145.8,134.55 5.47,5.47 0 0 1 -4.51,2.34 z"
+         inkscape:label="放射线" />
+    </g>
+    <g
+       id="g8610"
+       style="display:inline"
+       inkscape:label="中间层圆丹"
+       transform="translate(-4)">
+      <circle
+         class="cls-1"
+         cx="409.19"
+         cy="701.37"
+         r="32.23"
+         id="circle5741"
+         style="display:inline"
+         inkscape:label="下" />
+      <circle
+         class="cls-1"
+         cx="409.25"
+         cy="298.73999"
+         r="32.23"
+         id="circle5745"
+         style="display:inline"
+         inkscape:label="上" />
+      <circle
+         class="cls-1"
+         cx="757.84998"
+         cy="500.01001"
+         r="31.610001"
+         id="circle5749"
+         style="display:inline"
+         inkscape:label="右" />
+    </g>
+    <g
+       id="g8598"
+       style="display:inline"
+       inkscape:label="顶层圆环"
+       transform="translate(-4)">
+      <path
+         class="cls-3"
+         d="M 409.13,738.07 A 36.69,36.69 0 1 1 441,719.72 v 0 a 36.73,36.73 0 0 1 -31.87,18.35 z m 0.1,-64.46 a 27.88,27.88 0 0 0 -7.22,1 27.57,27.57 0 1 0 7.22,-1 z m 27.87,43.88 z"
+         id="path5743"
+         style="display:inline"
+         inkscape:label="下" />
+      <path
+         class="cls-3"
+         d="M 409.19,335.46 A 36.71,36.71 0 1 1 441,317.1 v 0 a 36.5,36.5 0 0 1 -22.29,17.1 37.25,37.25 0 0 1 -9.52,1.26 z M 409.3,271 a 27.74,27.74 0 1 0 13.82,3.71 A 27.77,27.77 0 0 0 409.3,271 Z m 27.86,43.86 z"
+         id="path5747"
+         style="display:inline"
+         inkscape:label="上" />
+      <path
+         class="cls-3"
+         d="m 757.79,536.09 a 36.07,36.07 0 1 1 31.31,-18 35.86,35.86 0 0 1 -31.31,18 z m 0.1,-63.22 a 27.16,27.16 0 1 0 13.52,3.64 27,27 0 0 0 -13.52,-3.64 z"
+         id="path5751"
+         style="display:inline"
+         inkscape:label="右" />
+    </g>
+  </g>
+</svg>

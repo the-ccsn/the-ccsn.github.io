@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: ''
-description: ''
+title: CCSN
+subtitle: 'Chang Cheng Student Network'
+description: '长城学生网络 CCSN 一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织 的官网'
 keywords: null
-author: John Doe
-language: en
-timezone: ''
-url: http://example.com
+author: CCSN
+language: zh-CN
+timezone: Asia/Shanghai
+url: https://ccsn.dev/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -61,4 +61,23 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/the-ccsn/the-ccsn.github.io
+  branch: gh-pages
+feed:
+  enable: true
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  hub: https://pubsubhubbub.appspot.com/
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: /img/CCSN.png
+  autodiscovery: true
+  template:

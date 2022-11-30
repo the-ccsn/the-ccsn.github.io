@@ -1,20 +1,20 @@
 version: 5.1.0
 variant: default
-logo: /img/logo.svg
+logo: /img/CCSN.png
 head:
     favicon: /img/favicon.svg
     manifest:
-        name: 
-        short_name: 
-        start_url: 
+        name: CCSN 
+        short_name: CCSN
+        start_url: /
         theme_color: 
         background_color: 
         display: standalone
         icons:
             -
-                src: ''
+                src: '/img/CCSN.png'
                 sizes: ''
-                type: 
+                type: 'image/png'
     open_graph:
         title: 
         type: blog
@@ -117,29 +117,23 @@ widgets:
     -
         position: left
         type: profile
-        author: Your name
-        author_title: Your title
-        location: Your location
-        avatar: 
-        avatar_rounded: false
+        author: CCSN
+        author_title: Changchen Students Network
+        location: Beijing, China
+        avatar: /img/CCSN.png
+        avatar_rounded: true
         gravatar: 
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/the-ccsn
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
+                url: https://github.com/the-ccsn
+            Telegram:
+                icon: fab fa-telegram
+                url: https://t.me/theCCSN
             RSS:
                 icon: fas fa-rss
-                url: /
+                url: /atom.xml
     -
         position: left
         type: toc
