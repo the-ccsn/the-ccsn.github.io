@@ -6,7 +6,7 @@ head:
     manifest:
         name: CCSN 
         short_name: CCSN
-        start_url: /
+        start_url: https://ccsn.dev/
         theme_color: 
         background_color: 
         display: standalone
@@ -39,7 +39,7 @@ head:
         image: 
     meta:
         - ''
-    rss: 
+    rss: /atom.xml
 navbar:
     menu:
         Home: /
@@ -50,18 +50,24 @@ navbar:
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/the-ccsn/the-ccsn.github.io
 footer:
     links:
         Creative Commons:
             icon: fab fa-creative-commons
             url: https://creativecommons.org/
-        Attribution 4.0 International:
+        Attribution:
             icon: fab fa-creative-commons-by
             url: https://creativecommons.org/licenses/by/4.0/
+        Noncommercial:
+            icon: fab fa-creative-commons-nc
+            url: https://creativecommons.org/licenses/by-nc/4.0/
+        No Derivatives:
+            icon: fab fa-creative-commons-nd
+            url: https://creativecommons.org/licenses/by-nd/4.0/
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/the-ccsn/the-ccsn.github.io
 article:
     highlight:
         theme: atom-one-light
@@ -79,6 +85,9 @@ article:
         Noncommercial:
             icon: fab fa-creative-commons-nc
             url: https://creativecommons.org/licenses/by-nc/4.0/
+        No Derivatives:
+            icon: fab fa-creative-commons-nd
+            url: https://creativecommons.org/licenses/by-nd/4.0/
 search:
     type: insight
     index_pages: true
@@ -138,7 +147,7 @@ widgets:
         position: left
         type: toc
         index: true
-        collapsed: true
+        collapsed: false
         depth: 3
     -
         position: left
@@ -183,8 +192,8 @@ plugins:
     hotjar:
         site_id: 
     katex: true
-    mathjax: true
-    outdated_browser: false
+    mathjax: false
+    outdated_browser: true
     progressbar: true
     statcounter:
         project: 
@@ -192,6 +201,6 @@ plugins:
     twitter_conversion_tracking:
         pixel_id: 
 providers:
-    cdn: jsdelivr
-    fontcdn: google
-    iconcdn: fontawesome
+    cdn: loli
+    fontcdn: ustc
+    iconcdn: loli
