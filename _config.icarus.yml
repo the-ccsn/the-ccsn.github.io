@@ -46,7 +46,7 @@ navbar:
         Archives: /archives
         Categories: /categories
         Tags: /tags
-        About: /about
+        About: /2022/11/16/跨越长城走向世界/
     links:
         Download on GitHub:
             icon: fab fa-github
@@ -127,7 +127,7 @@ widgets:
         position: left
         type: profile
         author: CCSN
-        author_title: Changchen Students Network
+        author_title: Changchen Student Network
         location: Beijing, China
         avatar: /img/CCSN.png
         avatar_rounded: true
