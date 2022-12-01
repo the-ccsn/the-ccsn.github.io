@@ -3,6 +3,14 @@ title: CCSN Lecture：搭建个人 NAS 的实践与经验
 date: 2022-11-25
 updated: 2022-12-01
 cover: /img/blog/NAS_cover.png
+categories:
+  - 活动
+  - CCSN Lecture
+tags: 
+  - CCSN
+  - CCSN Lecture
+  - NAS
+  - 活动
 ---
 
 ## 引言
