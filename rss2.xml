@@ -15,7 +15,7 @@
     <atom:link href="https://ccsn.dev/rss2.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>长城学生网络 CCSN 一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织 的官网</description>
-    <pubDate>Wed, 30 Nov 2022 15:21:16 GMT</pubDate>
+    <pubDate>Wed, 30 Nov 2022 16:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -24,19 +24,27 @@
       <guid>https://ccsn.dev/2022/11/25/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/</guid>
       <pubDate>Thu, 24 Nov 2022 16:00:00 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;摩尔定律……</description>
-          
-        
+      <description>&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;摩尔定律…… 似乎也不仅对处理器生效。&lt;/p&gt;
+&lt;p&gt;智能设备开始搭载高性能摄像头也已经有一些年头，我们用它留下了许多宝贵的照片、录像、通话记录，但手机很快被塞满于是不得不拷到电脑上，但又希望能随时抽出来回味。不想成为正版游戏的受害者因此存档一份又一份特定稳定版本的免 DRM 版，留到大雪封山断网的时候打发时间。多年前看过而记忆犹新的老电影，想在未来的一天抽出其中被删节的一段与人探讨……&lt;/p&gt;
+&lt;p&gt;不管您是有大量的美术素材等待妥善保管的艺术或影视从业者，还是有 “仓鼠病” 单纯出于想要存档的角度求一份心安的 BT&amp;#x2F;PT 爱好者，一个可靠的存储系统都是不可缺少，或者说至少非常重要的。&lt;/p&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>摩尔定律…… 似乎也不仅对处理器生效。</p><p>智能设备开始搭载高性能摄像头也已经有一些年头，我们用它留下了许多宝贵的照片、录像、通话记录，但手机很快被塞满于是不得不拷到电脑上，但又希望能随时抽出来回味。不想成为正版游戏的受害者因此存档一份又一份特定稳定版本的免 DRM 版，留到大雪封山断网的时候打发时间。多年前看过而记忆犹新的老电影，想在未来的一天抽出其中被删节的一段与人探讨……</p><p>不管您是有大量的美术素材等待妥善保管的艺术或影视从业者，还是有 “仓鼠病” 单纯出于想要存档的角度求一份心安的 BT&#x2F;PT 爱好者，一个可靠的存储系统都是不可缺少，或者说至少非常重要的。</p><p>（文编：快乐的老鼠宝宝）  </p><h2 id="内容简介"><a href="#内容简介" class="headerlink" title="内容简介"></a>内容简介</h2><p>本次茶话会主要将围绕如下内容展开：</p><ul><li><p>如何选购适合 NAS 的硬盘</p></li><li><p>NAS 上操作系统的安装与维护（TrueNAS）</p></li></ul><p><img src="/img/blog/NAS_1.jpg" alt="到货的机械硬盘"></p><p><img src="/img/blog/NAS_2.jpg" alt="TrueNAS 的系统截图"></p><h2 id="活动信息"><a href="#活动信息" class="headerlink" title="活动信息"></a>活动信息</h2><ul><li><p>会议号：263-913-295</p></li><li><p>时间：2022-11-26 20:00-21:00 (UTC +8:00)</p></li><li><p>平台：腾讯会议</p></li><li><p>主讲人：考拉学长</p></li></ul><h2 id="录播信息"><a href="#录播信息" class="headerlink" title="录播信息"></a>录播信息</h2><p>回放链接（Dropbox）： <a href="https://www.dropbox.com/s/9gzlkaphcyemwc4/CCSN_Lecture[01]-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BANAS.mp4">Click</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>摩尔定律…… 似乎也不仅对处理器生效。</p><p>智能设备开始搭载高性能摄像头也已经有一些年头，我们用它留下了许多宝贵的照片、录像、通话记录，但手机很快被塞满于是不得不拷到电脑上，但又希望能随时抽出来回味。不想成为正版游戏的受害者因此存档一份又一份特定稳定版本的免 DRM 版，留到大雪封山断网的时候打发时间。多年前看过而记忆犹新的老电影，想在未来的一天抽出其中被删节的一段与人探讨……</p><p>不管您是有大量的美术素材等待妥善保管的艺术或影视从业者，还是有 “仓鼠病” 单纯出于想要存档的角度求一份心安的 BT&#x2F;PT 爱好者，一个可靠的存储系统都是不可缺少，或者说至少非常重要的。</p><span id="more"></span><p>（文编：快乐的老鼠宝宝）  </p><h2 id="内容简介"><a href="#内容简介" class="headerlink" title="内容简介"></a>内容简介</h2><p>本次茶话会主要将围绕如下内容展开：</p><ul><li><p>如何选购适合 NAS 的硬盘</p></li><li><p>NAS 上操作系统的安装与维护（TrueNAS）</p></li></ul><p><img src="/img/blog/NAS_1.jpg" alt="到货的机械硬盘"></p><p><img src="/img/blog/NAS_2.jpg" alt="TrueNAS 的系统截图"></p><h2 id="活动信息"><a href="#活动信息" class="headerlink" title="活动信息"></a>活动信息</h2><ul><li><p>会议号：263-913-295</p></li><li><p>时间：2022-11-26 20:00-21:00 (UTC +8:00)</p></li><li><p>平台：腾讯会议</p></li><li><p>主讲人：考拉学长</p></li></ul><h2 id="录播信息"><a href="#录播信息" class="headerlink" title="录播信息"></a>录播信息</h2><p>回放链接（Dropbox）： <a href="https://www.dropbox.com/s/9gzlkaphcyemwc4/CCSN_Lecture[01]-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BANAS.mp4">Click</a></p>]]></content:encoded>
       
       
+      <category domain="https://ccsn.dev/categories/%E6%B4%BB%E5%8A%A8/">活动</category>
+      
+      <category domain="https://ccsn.dev/categories/%E6%B4%BB%E5%8A%A8/CCSN-Lecture/">CCSN Lecture</category>
+      
+      
+      <category domain="https://ccsn.dev/tags/CCSN/">CCSN</category>
+      
+      <category domain="https://ccsn.dev/tags/CCSN-Lecture/">CCSN Lecture</category>
+      
+      <category domain="https://ccsn.dev/tags/NAS/">NAS</category>
+      
+      <category domain="https://ccsn.dev/tags/%E6%B4%BB%E5%8A%A8/">活动</category>
       
       
       <comments>https://ccsn.dev/2022/11/25/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/#disqus_thread</comments>
@@ -49,20 +57,23 @@
       <guid>https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/</guid>
       <pubDate>Wed, 16 Nov 2022 16:00:00 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;p&gt;每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务&lt;/p&gt;
-&lt;p&gt;如果你的电脑有问题自己搞不定或者你对硬件感兴趣想要学习一些硬件以及电脑维修的知识，都可以在本周五晚六点到十点来后勤楼319参加，届时我们会准备一些小礼品，欢</description>
-          
-        
+      <description>&lt;p&gt;每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务。&lt;/p&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<p>每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务</p><p>如果你的电脑有问题自己搞不定或者你对硬件感兴趣想要学习一些硬件以及电脑维修的知识，都可以在本周五晚六点到十点来后勤楼319参加，届时我们会准备一些小礼品，欢迎大家来玩ヾ(@^▽^@)ノ </p><p>附：后勤楼位置</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务。</p><span id="more"></span><p>如果你的电脑有问题自己搞不定或者你对硬件感兴趣想要学习一些硬件以及电脑维修的知识，都可以在本周五晚六点到十点来后勤楼319参加，届时我们会准备一些小礼品，欢迎大家来玩ヾ(@^▽^@)ノ</p><p>附：后勤楼位置</p><p><img src="/img/blog/xware_map.jpg" alt="后勤楼位置"></p>]]></content:encoded>
       
       
+      <category domain="https://ccsn.dev/categories/%E6%B4%BB%E5%8A%A8/">活动</category>
+      
+      
+      <category domain="https://ccsn.dev/tags/CCSN/">CCSN</category>
+      
+      <category domain="https://ccsn.dev/tags/%E6%B4%BB%E5%8A%A8/">活动</category>
+      
+      <category domain="https://ccsn.dev/tags/X-ware/">X-ware</category>
+      
+      <category domain="https://ccsn.dev/tags/%E6%96%B0%E7%94%9F/">新生</category>
       
       
       <comments>https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/#disqus_thread</comments>
@@ -75,19 +86,21 @@
       <guid>https://ccsn.dev/2022/11/16/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/</guid>
       <pubDate>Tue, 15 Nov 2022 16:00:00 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;关于我们&quot;&gt;&lt;a href=&quot;#关于我们&quot; class=&quot;headerlink&quot;</description>
-          
-        
+      <description>&lt;h2 id=&quot;关于我们&quot;&gt;&lt;a href=&quot;#关于我们&quot; class=&quot;headerlink&quot; title=&quot;关于我们&quot;&gt;&lt;/a&gt;关于我们&lt;/h2&gt;&lt;p&gt;长城学生网络，前身为北京化工大学学生网络中心系统维护部，是一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织。&lt;/p&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<h2 id="关于我们"><a href="#关于我们" class="headerlink" title="关于我们"></a>关于我们</h2><p>长城学生网络，前身为北京化工大学学生网络中心系统维护部，是一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织。</p><h2 id="我们的历史与未来"><a href="#我们的历史与未来" class="headerlink" title="我们的历史与未来"></a>我们的历史与未来</h2><p>曾经，我们是一个社团部门，隶属于各级学生组织的管理单位。但近些年来政策限制的原因，我们不得不将大量时间用在非技术的事务上。这次额外组建长城学生网络，亦是一次大胆的尝试，一个“违背祖宗的决定”。我们终于可以不再局限于学生社团的桎梏，选择以一个纯自发性组织和大家见面。</p><p>这是大胆的一步，我们亦不知道能走出多久多远，但我们希望能够吸引到更多同样怀有热情的同好，希望他们能成为长城学生网络的一员。</p><p>经过重组与改建，我们于2022年11月11日于北京正式成立。此外，原来的前身北化学生网络中心依然存在，并依照团委和社联等相关部门的要求，依旧将在备案后依上级部门的指导下开展活动。</p><p>但今后，将有一个叫做长城学生网络的地方。</p><h2 id="关于名字"><a href="#关于名字" class="headerlink" title="关于名字"></a>关于名字</h2><p>名字嘛，其实不是什么重要的东西，甚至我们没有考虑过到底应该怎么简称，毕竟最终，名字还是要由人说出来才能成为名字。</p><p>不过，我们在组建的时候还是有些想要刻意强调的意向的，因此把他们组合起来，就变成了“长城学生网络”。</p><p>网络，不仅仅是现实中存在的互联网，更是我们相聚于此的网络。这很明显。</p><p>那长城是什么？是护照第一页对于华夏大地的象征，是北京周边那座宏伟的建筑，同时还是我们通过互联网向全世界发出的第一份邮件。我们希望能像第一次与互联网接触一样，完成我们与世界，世界上的人与物，尤其是世界上的你的“第一次接触”。</p><p>学生，又应当作何解释呢？</p><p>虽然我们不少成员目前职业仍然是学生，但我们终究会毕业，而我们中老成员毕业的同时，也会不断的有新的学生加入到我们之中。但不管我们的职业如何，生活如何，在整个计算机世界面前，我们依然有太多东西需要探索，需要学习。</p><p>因此，我们所有人永远都是学生。</p><h2 id="关于形象表示"><a href="#关于形象表示" class="headerlink" title="关于形象表示"></a>关于形象表示</h2><p>精神核心：技术、激情、协作、创新</p><p>口号：永远是学生。不止是学生。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="关于我们"><a href="#关于我们" class="headerlink" title="关于我们"></a>关于我们</h2><p>长城学生网络，前身为北京化工大学学生网络中心系统维护部，是一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织。</p><span id="more"></span><h2 id="我们的历史与未来"><a href="#我们的历史与未来" class="headerlink" title="我们的历史与未来"></a>我们的历史与未来</h2><p>曾经，我们是一个社团部门，隶属于各级学生组织的管理单位。但近些年来政策限制的原因，我们不得不将大量时间用在非技术的事务上。这次额外组建长城学生网络，亦是一次大胆的尝试，一个“违背祖宗的决定”。我们终于可以不再局限于学生社团的桎梏，选择以一个纯自发性组织和大家见面。</p><p>这是大胆的一步，我们亦不知道能走出多久多远，但我们希望能够吸引到更多同样怀有热情的同好，希望他们能成为长城学生网络的一员。</p><p>经过重组与改建，我们于2022年11月11日于北京正式成立。此外，原来的前身北化学生网络中心依然存在，并依照团委和社联等相关部门的要求，依旧将在备案后依上级部门的指导下开展活动。</p><p>但今后，将有一个叫做长城学生网络的地方。</p><h2 id="关于名字"><a href="#关于名字" class="headerlink" title="关于名字"></a>关于名字</h2><p>名字嘛，其实不是什么重要的东西，甚至我们没有考虑过到底应该怎么简称，毕竟最终，名字还是要由人说出来才能成为名字。</p><p>不过，我们在组建的时候还是有些想要刻意强调的意向的，因此把他们组合起来，就变成了“长城学生网络”。</p><p>网络，不仅仅是现实中存在的互联网，更是我们相聚于此的网络。这很明显。</p><p>那长城是什么？是护照第一页对于华夏大地的象征，是北京周边那座宏伟的建筑，同时还是我们通过互联网向全世界发出的第一份邮件。我们希望能像第一次与互联网接触一样，完成我们与世界，世界上的人与物，尤其是世界上的你的“第一次接触”。</p><p>学生，又应当作何解释呢？</p><p>虽然我们不少成员目前职业仍然是学生，但我们终究会毕业，而我们中老成员毕业的同时，也会不断的有新的学生加入到我们之中。但不管我们的职业如何，生活如何，在整个计算机世界面前，我们依然有太多东西需要探索，需要学习。</p><p>因此，我们所有人永远都是学生。</p><h2 id="关于形象表示"><a href="#关于形象表示" class="headerlink" title="关于形象表示"></a>关于形象表示</h2><p>精神核心：技术、激情、协作、创新</p><p>口号：永远是学生。不止是学生。</p>]]></content:encoded>
       
       
+      <category domain="https://ccsn.dev/categories/About/">About</category>
+      
+      
+      <category domain="https://ccsn.dev/tags/CCSN/">CCSN</category>
+      
+      <category domain="https://ccsn.dev/tags/%E5%85%B3%E4%BA%8E/">关于</category>
+      
+      <category domain="https://ccsn.dev/tags/%E4%BB%8B%E7%BB%8D/">介绍</category>
       
       
       <comments>https://ccsn.dev/2022/11/16/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/#disqus_thread</comments>
