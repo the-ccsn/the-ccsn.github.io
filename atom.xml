@@ -6,7 +6,7 @@
   <link href="https://ccsn.dev/atom.xml" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ccsn.dev/"/>
-  <updated>2022-11-30T16:00:00.000Z</updated>
+  <updated>2023-06-24T16:00:00.000Z</updated>
   <id>https://ccsn.dev/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022-2023学年下学期 Xware学期总结</title>
+    <link href="https://ccsn.dev/2023/06/25/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/"/>
+    <id>https://ccsn.dev/2023/06/25/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/</id>
+    <published>2023-06-24T16:00:00.000Z</published>
+    <updated>2023-06-24T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是一个学期末，到了我们喜闻乐见一年两度的X-ware服务总结</p><span id="more"></span><p>不清楚X-ware服务是什么的可以去看<a href="https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/#more">这篇文章</a></p><h2 id="情况总述"><a href="#情况总述" class="headerlink" title="情况总述"></a>情况总述</h2><p>首先是本学期维修的情况统计，这学期我们一共维修了大概140余台电脑，通过下图，我们可以很清楚的看出来，在维修率这块联想独占鳌头（bushi），有同学该吆喝了：<del>联想这么容易出问题，我们都不要买了</del>，错错错，大错特错，最高的维修率并不能说明联想的电脑非常的拉胯，买联想的同学还是非常多的，这也是个不小的基数，所以维修占比高点怎么了。同理可见，御三家的笔记本的持有率还是比较高的。（至少在百化是这样的）</p><p><img src="/img/blog/xware2022-2023_2_1.jpg" alt="品牌统计"></p><p>接下来我们来看看另一板块——问题统计</p><p>先上图</p><p><img src="/img/blog/xware2022-2023_2_2.jpg" alt="问题统计"></p><p>图里很清楚的可以看出来，这140多台电脑中，有三成多的是来清灰的，<del>可见山里有多少灰了</del>，其他问题中间也有绝大部分是C盘爆了（有幸见过一个C盘只剩145MB的）</p><p>结果显示中有14%的硬件问题，但是实际上达不到这么多，好多是同学系统的问题如驱动被不知名软件给干没了导致的，但是同学在保修时认为是硬件问题，实际硬件出问题的只有那么不到例，这么我们回头看上边的数据是不是就合理多了，御三家的质量还是没有那么差的（doge）。</p><p>这一个学期里我们也遇到了不少的问题，这里就把一些可能对大家有帮助的问题给列举一下吧</p><h2 id="问题总结"><a href="#问题总结" class="headerlink" title="问题总结"></a>问题总结</h2><h3 id="问题1：校园网认证界面打不开"><a href="#问题1：校园网认证界面打不开" class="headerlink" title="问题1：校园网认证界面打不开"></a>问题1：校园网认证界面打不开</h3><p>先说校园网认证界面打不开这问题，这个问题其实非常简单，我们可以直接输入IP地址就好（比如百化的就是：[202.4.130.95]），当然你如果不想天天这么干，你可以参考下边的解决方法</p><h3 id="问题2：联网了但是打不开网页"><a href="#问题2：联网了但是打不开网页" class="headerlink" title="问题2：联网了但是打不开网页"></a>问题2：联网了但是打不开网页</h3><p>这个问题很常见，他还有好多同类问题，比如我能上qq、微信，可以正常聊天，却上打不开网页，并且问了一大圈发现只有我是这样的情况，这类问题通常来看是DNS配置的问题</p><blockquote><p>至于什么是DNS，这里推荐去看<a href="https://www.bilibili.com/video/BV1Rp4y1a7xQ/?share_source=copy_web&vd_source=cbd4106d2cb34ce0e57081cf89455638">【硬件科普】能上QQ但是打不开网页？详解DNS服务，DNS解析，DNS劫持和污染</a>，这里就不细说了</p></blockquote><p>以win11为例，右键开始菜单，点击网络连接</p><p><img src="/img/blog/xware2022-2023_2_3.jpg"></p><p>选择高级网络设置</p><p><img src="/img/blog/xware2022-2023_2_4.jpg"></p><p>滑到底，选择更多适配器网络选项</p><p><img src="/img/blog/xware2022-2023_2_5.jpg"></p><p>选择你现在在用的网络适配器，无线网络的可能名称是WLAN，有线网络可能名称是以太网，双击进入或右键选择属性</p><p><img src="/img/blog/xware2022-2023_2_6.jpg"></p><p>选择<code>Internet协议版本4(TCP/IPv4)</code>，当然如果你用的IPv6的话你就选择IPv6的，同样是双击或者单击后选择属性</p><p><img src="/img/blog/xware2022-2023_2_7.jpg"></p><p>点击使用下边的DNS服务器地址，可以将dns地址改为如图</p><p>这里再提供几个DNS服务器以便选择，233.5.5.5(阿里云)，233.6.6.6(阿里云)，101.6.6.6(清华)，119.29.29.29(腾讯)</p><h3 id="问题3：solidwork卸载残留"><a href="#问题3：solidwork卸载残留" class="headerlink" title="问题3：solidwork卸载残留"></a>问题3：solidwork卸载残留</h3><p>这个不是一般的残留问题，一般的残留问题我们也不会单拎出来在这里说了，这名同学在solidwork安装过程中突然关机了，导致安装程序一直挂在后台，也不会正常进行安装，但是已经安装的文件还在并且还占据的不小的空间，在注册表中没有找到solidwork的任何信息，最终没有办法只能采用暴力方式删除，使用<a href="https://www.voidtools.com/zh-cn/">everything</a>找到solidwork的文件，然后一个一个删除。</p><p>这里是想提醒大家，在安装程序执行过程中，尽量不要去中断，要不是可能产生非常多不必要的麻烦（你也不想一个一个的删除各个地方的残留文件吧）</p><h3 id="问题4：dev-c-编译过慢"><a href="#问题4：dev-c-编译过慢" class="headerlink" title="问题4：dev c++编译过慢"></a>问题4：dev c++编译过慢</h3><p>这个问题非常神奇，起初我们认为是编译器出了问题，在进行过排查之后发现，好像没有什么问题，同学说每次开机都会随机的卡一会，这个不妨让我们联想到杀软，最后一查，嘿，联想电脑管家在背后默默守护电脑呢，编译之后产生的文件被他视为新下的文件，他会开始全盘扫描，导致卡顿，关闭该功能后一切正常。</p><p>这也给我们解决卡顿问题提供了一个新的思路——有事没事看看杀软在你眼皮子底下干了点啥</p><h3 id="问题5：C盘爆满"><a href="#问题5：C盘爆满" class="headerlink" title="问题5：C盘爆满"></a>问题5：C盘爆满</h3><p>这个问题也不在少数，这里推荐用<a href="http://www.uderzo.it/main_products/space_sniffer/">spacesnifer</a>查看空间占用情况，然后删除一些没有用的文件。</p><p>这里提醒大家，一定要注意新应用的安装位置和配置信息存放位置，要不你的C盘会整日整月的大红大紫呦。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;又是一个学期末，到了我们喜闻乐见一年两度的X-ware服务总结&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="活动" scheme="https://ccsn.dev/categories/%E6%B4%BB%E5%8A%A8/"/>
+    
+    <category term="X-Ware" scheme="https://ccsn.dev/categories/%E6%B4%BB%E5%8A%A8/X-Ware/"/>
+    
+    
+    <category term="CCSN" scheme="https://ccsn.dev/tags/CCSN/"/>
+    
+    <category term="活动" scheme="https://ccsn.dev/tags/%E6%B4%BB%E5%8A%A8/"/>
+    
+    <category term="X-ware" scheme="https://ccsn.dev/tags/X-ware/"/>
+    
+    <category term="学期总结" scheme="https://ccsn.dev/tags/%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>CCSN Lecture：搭建个人 NAS 的实践与经验</title>
