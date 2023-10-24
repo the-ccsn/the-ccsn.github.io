@@ -9,8 +9,8 @@ dependencies:
     specifier: ^6.3.0
     version: 6.3.0
   hexo-deployer-git:
-    specifier: ^3.0.0
-    version: 3.0.0
+    specifier: ^4.0.0
+    version: 4.0.0
   hexo-generator-archive:
     specifier: ^2.0.0
     version: 2.0.0
@@ -2012,16 +2012,16 @@ packages:
       - chokidar
     dev: false
 
-  /hexo-deployer-git@3.0.0:
-    resolution: {integrity: sha512-U2Xewjab+rvUDNTcuYYnOxitkDXL3f5VMUH32jKDHs3OC4YFVGRoEaTTDVHskqr3KRi78Wohjc6BSRHOoG3oxA==}
-    engines: {node: '>=8.6.0'}
+  /hexo-deployer-git@4.0.0:
+    resolution: {integrity: sha512-28t1Q+4taB/UaBAP52W3mD/wcCwa2y2zBieUfBJFBZudbmVgiKJB5YedYILeyI5QByaUKAOwoupmdTbocdQ+CQ==}
+    engines: {node: '>=14'}
     dependencies:
       bluebird: 3.7.2
-      chalk: 4.1.2
-      hexo-fs: 3.1.0
+      hexo-fs: 4.1.1
       hexo-util: 2.7.0
-      moment: 2.29.4
+      luxon: 3.4.3
       nunjucks: 3.2.3
+      picocolors: 1.0.0
     transitivePeerDependencies:
       - chokidar
     dev: false
@@ -2036,6 +2036,16 @@ packages:
   /hexo-fs@3.1.0:
     resolution: {integrity: sha512-SfoDH7zlU9Iop+bAfEONXezbNIkpVX1QqjNCBYpapilZR+xVOCfTEdlNixanrKBbLGPb2fXqrdDBFgrKuiVGQQ==}
     engines: {node: '>=10.13.0'}
+    dependencies:
+      bluebird: 3.7.2
+      chokidar: 3.5.3
+      graceful-fs: 4.2.10
+      hexo-util: 2.7.0
+    dev: false
+
+  /hexo-fs@4.1.1:
+    resolution: {integrity: sha512-aDysNTyv8ElcerbFVbPLRXnYt+QDY6gAOZZ5DLbCxudY0Ywppqd+uZ03gZ2BDypIBvmNB27WYWYz76M+Yv/YXw==}
+    engines: {node: '>=14'}
     dependencies:
       bluebird: 3.7.2
       chokidar: 3.5.3
@@ -2547,6 +2557,11 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       yallist: 4.0.0
+    dev: false
+
+  /luxon@3.4.3:
+    resolution: {integrity: sha512-tFWBiv3h7z+T/tDaoxA8rqTxy1CHV6gHS//QdaH4pulbq/JuBSGgQspQQqcgnwdAx6pNI7cmvz5Sv/addzHmUg==}
+    engines: {node: '>=12'}
     dev: false
 
   /make-dir@2.1.0:
