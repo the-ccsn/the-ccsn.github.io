@@ -15,13 +15,36 @@
     <atom:link href="https://ccsn.dev/rss2.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>长城学生网络 CCSN 一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织 的官网</description>
-    <pubDate>Sat, 24 Jun 2023 16:00:00 GMT</pubDate>
+    <pubDate>Mon, 23 Oct 2023 16:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
+      <title>程序员节快乐</title>
+      <link>https://ccsn.dev/2023/10/23/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%8A%82%E5%BF%AB%E4%B9%90-2023/</link>
+      <guid>https://ccsn.dev/2023/10/23/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%8A%82%E5%BF%AB%E4%B9%90-2023/</guid>
+      <pubDate>Mon, 23 Oct 2023 16:00:00 GMT</pubDate>
+      
+      <description>&lt;p&gt;好耶！ヽ(✿ﾟ▽ﾟ)ノ！&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>好耶！ヽ(✿ﾟ▽ﾟ)ノ！</p><span id="more"></span><p><img src="https://ccsn-external.oss-cn-beijing.aliyuncs.com/static/CCSN-1024.jpg" alt="贺图"></p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://ccsn.dev/tags/CCSN/">CCSN</category>
+      
+      <category domain="https://ccsn.dev/tags/1024/">1024</category>
+      
+      
+      <comments>https://ccsn.dev/2023/10/23/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%8A%82%E5%BF%AB%E4%B9%90-2023/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>2022-2023学年下学期 Xware学期总结</title>
-      <link>https://ccsn.dev/2023/06/25/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/</link>
-      <guid>https://ccsn.dev/2023/06/25/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/</guid>
+      <link>https://ccsn.dev/2023/06/24/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/</link>
+      <guid>https://ccsn.dev/2023/06/24/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/</guid>
       <pubDate>Sat, 24 Jun 2023 16:00:00 GMT</pubDate>
       
       <description>&lt;p&gt;又是一个学期末，到了我们喜闻乐见一年两度的X-ware服务总结&lt;/p&gt;</description>
@@ -45,14 +68,14 @@
       <category domain="https://ccsn.dev/tags/%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93/">学期总结</category>
       
       
-      <comments>https://ccsn.dev/2023/06/25/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/#disqus_thread</comments>
+      <comments>https://ccsn.dev/2023/06/24/Xware%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93%EF%BC%9A2022-2023%E5%AD%A6%E5%B9%B4%E4%B8%8B%E5%AD%A6%E6%9C%9F/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>CCSN Lecture：搭建个人 NAS 的实践与经验</title>
-      <link>https://ccsn.dev/2022/11/25/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/</link>
-      <guid>https://ccsn.dev/2022/11/25/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/</guid>
+      <link>https://ccsn.dev/2022/11/24/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/</link>
+      <guid>https://ccsn.dev/2022/11/24/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/</guid>
       <pubDate>Thu, 24 Nov 2022 16:00:00 GMT</pubDate>
       
       <description>&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;摩尔定律…… 似乎也不仅对处理器生效。&lt;/p&gt;
@@ -78,14 +101,14 @@
       <category domain="https://ccsn.dev/tags/%E6%B4%BB%E5%8A%A8/">活动</category>
       
       
-      <comments>https://ccsn.dev/2022/11/25/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/#disqus_thread</comments>
+      <comments>https://ccsn.dev/2022/11/24/CCSN%20Lecture%EF%BC%9A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%20NAS%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%BB%8F%E9%AA%8C/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>周五新生欢迎活动</title>
-      <link>https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/</link>
-      <guid>https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/</guid>
+      <link>https://ccsn.dev/2022/11/16/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/</link>
+      <guid>https://ccsn.dev/2022/11/16/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/</guid>
       <pubDate>Wed, 16 Nov 2022 16:00:00 GMT</pubDate>
       
       <description>&lt;p&gt;每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务。&lt;/p&gt;</description>
@@ -109,14 +132,14 @@
       <category domain="https://ccsn.dev/tags/%E6%96%B0%E7%94%9F/">新生</category>
       
       
-      <comments>https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/#disqus_thread</comments>
+      <comments>https://ccsn.dev/2022/11/16/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>跨越长城，走向世界</title>
-      <link>https://ccsn.dev/2022/11/16/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/</link>
-      <guid>https://ccsn.dev/2022/11/16/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/</guid>
+      <link>https://ccsn.dev/2022/11/15/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/</link>
+      <guid>https://ccsn.dev/2022/11/15/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/</guid>
       <pubDate>Tue, 15 Nov 2022 16:00:00 GMT</pubDate>
       
       <description>&lt;h2 id=&quot;关于我们&quot;&gt;&lt;a href=&quot;#关于我们&quot; class=&quot;headerlink&quot; title=&quot;关于我们&quot;&gt;&lt;/a&gt;关于我们&lt;/h2&gt;&lt;p&gt;长城学生网络，前身为北京化工大学学生网络中心系统维护部，是一个由技术爱好者组成的致力于前沿技术探索及推广和开源与自由技术应用的社区性组织。&lt;/p&gt;</description>
@@ -136,7 +159,7 @@
       <category domain="https://ccsn.dev/tags/%E4%BB%8B%E7%BB%8D/">介绍</category>
       
       
-      <comments>https://ccsn.dev/2022/11/16/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/#disqus_thread</comments>
+      <comments>https://ccsn.dev/2022/11/15/%E8%B7%A8%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/#disqus_thread</comments>
       
     </item>
     
