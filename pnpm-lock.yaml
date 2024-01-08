@@ -39,8 +39,8 @@ dependencies:
     specifier: ^3.0.0
     version: 3.0.0
   hexo-theme-icarus:
-    specifier: ^5.2.1
-    version: 5.2.1
+    specifier: ^5.3.0
+    version: 5.3.0
 
 packages:
 
@@ -2269,8 +2269,8 @@ packages:
       - supports-color
     dev: false
 
-  /hexo-theme-icarus@5.2.1:
-    resolution: {integrity: sha512-B8YnfKGAUwKCOdZgh7jsU1iNwW5wYTQ+ZwXbPpEwo3cqQ936hL5CDiGJ2ZKCuhVY1JixeNSObPQqV4v5H4VVpQ==}
+  /hexo-theme-icarus@5.3.0:
+    resolution: {integrity: sha512-VqVkms5ykIoCkPEbPJShuTT/BVWPZi24gEFesf6reVCzbR0DbLAN4gvsjngEquEJ4HqVpA0NoZpcvjXw44iBoQ==}
     engines: {node: '>=12.4.0'}
     dependencies:
       bulma-stylus: 0.8.0
@@ -2336,7 +2336,7 @@ packages:
       js-yaml: 4.1.0
       js-yaml-js-types: 1.0.1(js-yaml@4.1.0)
       micromatch: 4.0.5
-      moize: 6.1.3
+      moize: 6.1.6
       moment: 2.29.4
       moment-timezone: 0.5.39
       nunjucks: 3.2.3
@@ -2718,10 +2718,6 @@ packages:
     hasBin: true
     dev: false
 
-  /micro-memoize@4.0.11:
-    resolution: {integrity: sha512-CjxsaYe4j43df32DtzzNCwanPqZjZDwuQAZilsCYpa2ZVtSPDjHXbTlR4gsEZRyO9/twHs0b7HLjvy/sowl7sA==}
-    dev: false
-
   /micro-memoize@4.1.2:
     resolution: {integrity: sha512-+HzcV2H+rbSJzApgkj0NdTakkC+bnyeiUxgT6/m7mjcz1CmM22KYFKp+EVj1sWe4UYcnriJr5uqHQD/gMHLD+g==}
     dev: false
@@ -2778,13 +2774,6 @@ packages:
 
   /minimist@1.2.7:
     resolution: {integrity: sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==}
-    dev: false
-
-  /moize@6.1.3:
-    resolution: {integrity: sha512-Cn+1T5Ypieeo46fn8X98V2gHj2VSRohVPjvT8BRvNANJJC3UOeege/G84xA/3S9c5qA4p9jOdSB1jfhumwe8qw==}
-    dependencies:
-      fast-equals: 3.0.3
-      micro-memoize: 4.0.11
     dev: false
 
   /moize@6.1.6:
